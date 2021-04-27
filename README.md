@@ -1,4 +1,6 @@
-# ReactNative
+# Em desenvolvimento
+
+## ReactNative
 Repositorio dedicado aos estudos com ReactNative (expo)
 
 ## Nesse repositório, se inicia uma aplicação React-Native, baseada num App de controle de tarefas (didático)
